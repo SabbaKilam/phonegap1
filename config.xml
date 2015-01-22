@@ -17,5 +17,5 @@
         Abbas Abdulmalik
       </author>
       <icon src="icon.png" gap:platform="android"/>
-      <splash src="splash.png"/>
+      <gap:splash src="splash.png"/>
   </widget>
